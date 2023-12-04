@@ -9,3 +9,10 @@ public class ExampleTest {
 		Assert.assertTrue(true);
 	}
 }
+
+class ExampleTest1 {
+	@Test
+	public void exampleTest() {
+		Assert.assertTrue(true);
+	}
+}
